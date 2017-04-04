@@ -11,9 +11,13 @@ Actividades:
 
 
 2- Copia y pega el código en arduino
+
 3- comprobemos que funciona
+
 4- generemos los tres colores por separado
+
 5- generemos el morado
+
 6- que brille un segundo de azul y después en rojo
 
 
