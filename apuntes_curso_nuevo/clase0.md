@@ -81,3 +81,15 @@ Es un lenguaje en auge que se prevee tendrá mucho pesó de aquí a unos años, 
 * Tiene alcance en muchas disciplinas
 
 Pero todo esto es teoría. Para empezar a comprender Python usaremos los recursos oficiales en su web y luego **Code Combat** (https://codecombat.com/) que nos ayudará a comprender las bases con un videojuego. 
+
+
+___
+
+Notas post clase:
+
+Ha encajado con el tiempo (60 minutos), hemos utilizado:
+
+- Jitsi
+- IDLE online (https://repl.it/languages/python)
+- Ejemplos varios de Python
+- Libro "Aprende a programar en python como si estuvieras en el siglo XXI"(JJ Merelo) 
