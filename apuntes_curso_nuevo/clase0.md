@@ -84,8 +84,7 @@ Pero todo esto es teoría. Para empezar a comprender Python usaremos los recurso
 
 
 ___
-
-Notas post clase:
+Notas _pos_ clase:
 
 Ha encajado con el tiempo (60 minutos), hemos utilizado:
 
