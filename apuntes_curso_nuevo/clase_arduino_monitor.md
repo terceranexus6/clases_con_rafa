@@ -55,8 +55,8 @@ void loop(){
 
 **¿Qué vamos a hacer?**
 
-I-  Hacer el circuito
-II- Construir el código
-II- Comprobar que nuestro monitor funciona bien
-IV- En base a nuestro experimento implementaremos un led, que se encenderá cuando haya poca luz.
+-  Hacer el circuito
+- Construir el código
+- Comprobar que nuestro monitor funciona bien
+- En base a nuestro experimento implementaremos un led, que se encenderá cuando haya poca luz.
 
