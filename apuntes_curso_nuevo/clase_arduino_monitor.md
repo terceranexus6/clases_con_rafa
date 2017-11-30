@@ -13,9 +13,13 @@ En este caso vamos a aprovechar el Serial Monitor para comprender mejor el uso d
 
 Y conectaremos nuestros elementos de la siguiente manera:
 
+![](https://github.com/terceranexus6/clases_con_rafa/blob/master/apuntes_curso_nuevo/images/2017-11-30%2016_22_40-Arduino%20Monitor%20-%20Entender%20la%20comunicaci%C3%B3n%20con%20el%20arduino%20-%20Documentos%20de%20Google.png?raw=true)
+
 Antes de comenzar a escribir el código, **cósas a comprender**:
 
 **LDR** (sensor de luz), juega con una resistencia y la intensidad de la luz. Cuanto mayor sea la intensidad lumínica, mayor es la resistencia. Éstos son el símbolo que se utiliza en los circuitos escritos para indicar el uso de una resistencia y la gráfica que representa su funcionamiento, respectivamente:
+
+![](https://github.com/terceranexus6/clases_con_rafa/blob/master/apuntes_curso_nuevo/images/2017-11-30%2016_22_51-Arduino%20Monitor%20-%20Entender%20la%20comunicaci%C3%B3n%20con%20el%20arduino%20-%20Documentos%20de%20Google.png?raw=true)
 
 En el caso de arduino, al ser un sensor, utilizaremos la señal analñogica, el hueco de pins señalizado con Analog que va de A0 a A5. En nuestro ejemplo, lo hemos colocado en A0 pero podemos colocarlo donde sea. 
 
@@ -26,6 +30,8 @@ Como ya hemos dicho que usaremos un valor analógico usaremos para leer el conte
     analogRead(sensorPin)
     
 Eso, por ahora, es lo que debemos saber del sensor. Ahora vamos a comprender  la función del serial Monitor. Para abrirlo, cuando lo tengamos todo listo, tan sólo tenemos que ir a **Herramientas -> Monitor Serie**
+
+![](https://github.com/terceranexus6/clases_con_rafa/blob/master/apuntes_curso_nuevo/images/2017-11-30%2016_22_59-Arduino%20Monitor%20-%20Entender%20la%20comunicaci%C3%B3n%20con%20el%20arduino%20-%20Documentos%20de%20Google.png?raw=true)
 
 Y nos proporcionará la información que le pidamos con Serial.println(lo_que_sea) de forma que podemos leer el contenido de un sensor, que es lo que vamos a hacer. 
 
