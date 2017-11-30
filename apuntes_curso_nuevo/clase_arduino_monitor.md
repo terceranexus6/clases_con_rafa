@@ -37,6 +37,7 @@ Y nos proporcionará la información que le pidamos con Serial.println(lo_que_se
 
 Vamos a construir el código base de cero, y lo comparamos con el final. La estructura es la siguiente:
 
+```
 //Variable del sensor (¿a qué pin está conectado?)
 //Variable donde guardamos el contenido del sensor
 
@@ -50,12 +51,12 @@ void loop(){
 //imprimir en el monitor el valor del sensor
 //esperar 1 segundo
 }
-
+```
 
 **¿Qué vamos a hacer?**
 
-1 -  Hacer el circuito
-2 - Construir el código
-3 - Comprobar que nuestro monitor funciona bien
-4 - En base a nuestro experimento implementaremos un led, que se encenderá cuando haya poca luz.
+I-  Hacer el circuito
+II- Construir el código
+II- Comprobar que nuestro monitor funciona bien
+IV- En base a nuestro experimento implementaremos un led, que se encenderá cuando haya poca luz.
 
