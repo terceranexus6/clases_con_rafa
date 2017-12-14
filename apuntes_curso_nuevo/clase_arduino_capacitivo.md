@@ -24,11 +24,15 @@ Existen una serie de materiales de nuestro día a día que son conductores de el
 
 ## ¿Qué haremos?
 
-I. Descargar librería
-II. Construir el circuito
-III. Diseñar el código
-IV. Probar y calibrar con Serial Monitor. 
-V. Experimentar con otro material, por ejemplo, una moneda
+1. Descargar librería
+
+2. Construir el circuito
+
+3. Diseñar el código
+
+4. Probar y calibrar con Serial Monitor. 
+
+5. Experimentar con otro material, por ejemplo, una moneda
 
 
 
@@ -131,9 +135,9 @@ Para esperas:
 
 **Para descargar la librería:**
 
-I. Descargar [CapacitiveSensor04.zip](https://github.com/arduino-libraries/CapacitiveSensor/zipball/master)
-II. Buscar en la carpeta (botón derecho, ver en carpeta)
-III. Descubrir dónde tenemos guardadas las cosas de arduino (probablemente en Documentos -> arduino -> librerías)
-IV. Extraer contenido en el punto que descubramos en 3
-V. Recargar arduino
-VI. ¡Listo para usarse!
+1. Descargar [CapacitiveSensor04.zip](https://github.com/arduino-libraries/CapacitiveSensor/zipball/master)
+2. Buscar en la carpeta (botón derecho, ver en carpeta)
+3. Descubrir dónde tenemos guardadas las cosas de arduino (probablemente en Documentos -> arduino -> librerías)
+4. Extraer contenido en el punto que descubramos en 3
+5. Recargar arduino
+6. ¡Listo para usarse!
