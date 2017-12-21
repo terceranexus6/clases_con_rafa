@@ -80,7 +80,12 @@ Es un lenguaje en auge que se prevee tendrá mucho pesó de aquí a unos años, 
 * No es tipado
 * Tiene alcance en muchas disciplinas
 
-Pero todo esto es teoría. Para empezar a comprender Python usaremos los recursos oficiales en su web y luego **Code Combat** (https://codecombat.com/) que nos ayudará a comprender las bases con un videojuego. 
+Pero todo esto es teoría. Para empezar a comprender Python usaremos los recursos oficiales en su web y luego **Code Combat** (https://codecombat.com/) que nos ayudará a comprender las bases con un videojuego.  
+
+Notas para profes:
+
+- Si se quiere mandar tarea a casa, jugar un poco a code combat es una buena opción. Ellos desarrollan lógica en python, pero cuenta como juegos. (gamificación).
+- Comprender la lógica de programar es primordial. Aunque python es muy accesible, recomiendo usar primero ejemplos sin el ordenador. (ej: programar como comprar un libro de misterio - salir de clasa, ir a la librería, **si** hay libros de misterio, comprar, **si no** no comprar. Con esto se han visto los condicionales). 
 
 
 ___
