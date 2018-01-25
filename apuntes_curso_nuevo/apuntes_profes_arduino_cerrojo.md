@@ -1,0 +1,4 @@
+- Puede hablarse del movimiento MAKER
+- Un ejemplo de IoT son los electrodomésticos inteligentes o el control de temperatura en la industria agraria.
+- En el código, los pines a rellenar deben coincidir con lso pines del dibujo. 
+- A diferencia de otros códigos, este tiene una función fuera del loop. Conversar sobre ello. 
